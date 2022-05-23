@@ -1,0 +1,4 @@
+com\cadastroCliente\crm\controller\clienteController.class
+com\cadastroCliente\crm\repository\ClienteRepository.class
+com\cadastroCliente\crm\CadastroClienteApplication.class
+com\cadastroCliente\crm\cliente\model\Cliente.class
